@@ -25,7 +25,7 @@ SECRET_KEY = '0&c@vy!#^l*1vk$i+2d=9*-v*9(gi%9s*^i+p*zy_t3lx0vwz3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.everyreview'] #뭐 치긴했는데 여긴 뭐하는지모르겠다;
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com'] #뭐 치긴했는데 여긴 뭐하는지모르겠다;
 
 
 # Application definition
